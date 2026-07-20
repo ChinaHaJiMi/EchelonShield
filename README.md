@@ -125,6 +125,11 @@ EchelonShield/
 本项目采用 MIT 许可证 — 详见 [LICENSE](LICENSE) 文件。
 
 ## 致谢
+- 开发者是一只啥也不会的哈基米，第一次用GitHub，请多多指教喵
+- 哦对了，你不会以为这代码是本喵写的？（哪为什么注释这样多
+- Ai写的阿，Agent：cline全家桶 模型：DeepSeek V4 Flash
+- 本喵一点代码都不会（除了cin>>和print()）交bug记得写简单点（太难看不懂）
+- 想看开发者日常点个心，以后会用AI写更多胡思乱想…阿不，奇思妙想
+喵
 
-- [PyQt6](https://www.riverbankcomputing.com/software/pyqt/) — Qt6 Python 绑定
-- 所有开源安全工具的开发者们
+
