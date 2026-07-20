@@ -1,0 +1,67 @@
+# ─── Python ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+*.egg-info/
+
+# ─── Virtual environments ────────────────────────
+venv/
+.venv/
+env/
+.env/
+virtualenv/
+
+# ─── IDE & Editor ────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.code-workspace
+
+# ─── Project-specific ─────────────────────────────
+# 本地运行时库（已手动打包，不应由依赖管理工具重写）
+lib/PyQt6/
+
+# 日志和数据
+data/*.log
+data/*.db
+data/*.sqlite
+data/*.json
+
+# 运行时生成的文件
+*.pid
+*.lock
+
+# ─── OS ─────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ─── Testing ────────────────────────────────────
+.coverage
+htmlcov/
+.pytest_cache/
+test-results/
+*.log
+
+# ─── System ─────────────────────────────────────
+*.bak
+*.tmp
+*.templib/
+lib/
+lib/
+lib/
